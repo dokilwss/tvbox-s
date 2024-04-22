@@ -1,6 +1,6 @@
 {
     "storeHouse": [
-    {"sourceName":"⓪🌏TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX原仓.json"},
+    {"sourceName":"⓪🌏TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
     {"sourceName":"①🥣砂锅影视多仓库","sourceUrl":"http://152.32.170.60/ddx/TVBox/raw/branch/master/d.json"},
     {"sourceName":"②🍂蚂蚁影视多仓库","sourceUrl":"https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
     {"sourceName":"③🎁宝盒影视多仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/宝盒多仓.txt"},
