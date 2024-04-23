@@ -1509,18 +1509,9 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
   "ads":["mozai.4gtv.tv"]
-  }],
+  }
+  ],
   "flags": [
     "youku",
     "优酷",
