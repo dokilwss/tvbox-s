@@ -1,5 +1,6 @@
 {
   "spider": "./jar/dongchen.jar",
+  "lives":[{"name":"电视直播","type":0,"url":"./好TV.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},]
   "wallpaper": "https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
   "sites": [
     {
