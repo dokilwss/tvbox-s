@@ -62,7 +62,7 @@
    
 
 {"key":"南瓜","name":"🎃┃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
-{"key": "NCat","name": "网飞猫🐱影视","type": 3,"api": "csp_NCat","searchable": 1,"filterable": 1},
+{"key": "NCat","name": "网飞猫🐱影视","type": 3,"api": "csp_NCat","searchable": 1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_kuaikan","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"蚂蚁","name":"🌒┃蚂蚁┃影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 
