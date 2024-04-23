@@ -798,14 +798,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{
-  "key": "NCat",
-"name": "网飞猫🐱影视",
-"type": 3,
-"api": "csp_NCat",
-"searchable": 1,
-"filterable": 1
-},
     {
       "key": "nangua",
       "name": "南瓜🎃影视",
