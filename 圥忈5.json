@@ -803,7 +803,7 @@
 "name": "网飞猫🐱影视",
 "type": 3,
 "api": "csp_NCat",
-"ext": "./jar/NCat.java",
+"ext": "./jar/NCat.jar",
 "searchable": 1,
 "filterable": 1
 },
