@@ -428,17 +428,6 @@
       ]
     },
     {
-      "key": "NCat",
-      "name": "\uD83D\uDE3C 网飞猫 | 影视",
-      "type": 3,
-      "api": "csp_NCat",
-      "jar":"https://gitlab.com/dokiss/tvbox/-/raw/main/app/src/main/java/com/github/catvod/spider/NCat.java",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-      },
-    {
       "key": "白嫖影视",
       "name": "白嫖☀️蓝光",
       "type": 3,
