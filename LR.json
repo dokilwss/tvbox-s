@@ -545,6 +545,16 @@
       ]
     },
     {
+      "key": "奈飞影视",
+      "name": "奈飞Ⓝ影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nf.json"
+      },
+    {
       "key": "新视觉影院",
       "name": "视觉🔥影院",
       "type": 3,
