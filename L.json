@@ -428,6 +428,15 @@
       ]
     },
     {
+      "key": "NCat",
+      "name": "\uD83D\uDE3C 网飞猫 | 影视",
+      "type": 3,
+      "api": "csp_NCat",
+      "jar":"./jar/PG.jar",
+      "searchable": 1,
+      "filterable": 1
+      },
+    {
       "key": "白嫖影视",
       "name": "白嫖☀️蓝光",
       "type": 3,
