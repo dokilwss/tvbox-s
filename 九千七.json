@@ -804,7 +804,7 @@
         "type": 3,
         "api": "csp_NCat",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/app/src/main/java/com/github/catvod/spider/NCat.java",
-        "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1",
+        "ext":"https://www.ncat1.app/",
         "searchable": 1,
         "filterable": 1
         },
