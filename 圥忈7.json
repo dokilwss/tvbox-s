@@ -799,6 +799,15 @@
       "changeable": 1
     },
     {
+        "key": "NCat",
+        "name": "网飞猫🐱影视",
+        "type": 3,
+        "api": "csp_NCat",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/app/src/main/java/com/github/catvod/spider/NCat.java",
+        "searchable": 1,
+        "filterable": 1
+        },
+    {
       "key": "nangua",
       "name": "南瓜🎃影视",
       "type": 3,
