@@ -641,7 +641,7 @@
             "name": "💡天天┃影视",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "http://o.nxog.top/m/jar",
+            "jar": "./jar/PandaQ240408.jar",
             "ext": "http://op.ysdqjs.cn"
         },
         {
