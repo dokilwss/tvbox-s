@@ -577,14 +577,6 @@
             "changeable": 1
         },
         {
-            "key": "白嫖影视",
-            "name": "💡白嫖┃影视",
-            "type": 3,
-            "api": "csp_Wexbaipiao",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "茶杯狐",
             "name": "♻️茶杯┃影视",
             "type": 3,
@@ -751,12 +743,12 @@
             "key": "荐片",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "csp_JianPian",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/jianpian.js"
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
         },
         {
             "key": "新6V",
