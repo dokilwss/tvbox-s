@@ -637,15 +637,6 @@
             }
         },
         {
-            "key": "荐片",
-            "name": "🧿荐片┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/jianpian.js"
-            },
-        {
             "key": "新6V",
             "name": "🧲新Ⅵ┃磁力",
             "type": 3,
@@ -726,6 +717,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "荐片",
+            "name": "🧿荐片┃蓝光",
+            "type": 3,
+            "api": "./js/drpy.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/jianpian.js"
+            },
         {
             "key": "厂长蓝光",
             "name": "🧿厂长┃蓝光",
