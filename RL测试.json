@@ -474,15 +474,6 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "南瓜影视",
-            "name": "💡南瓜┃影视",
-            "type": 3,
-            "api": "csp_AppYSDQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
             "key": "天天影视",
             "name": "💡天天┃影视",
             "type": 3,
