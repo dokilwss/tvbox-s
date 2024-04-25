@@ -496,6 +496,16 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
+            "key": "MXONE PRO",
+            "name": "⚡MXONE┃PRO",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
+        {
             "key": "天天影视",
             "name": "💡天天┃影视",
             "type": 3,
@@ -801,8 +811,8 @@
             "key": "磁力熊",
             "name": "🧲磁力熊┃磁力",
             "type": 3,
-            "api": "./JS/drpy.min.js",
-            "ext": "./JS/磁力熊.js"
+            "api": "./jar/drpy2.min.js",
+            "ext": "./json/磁力熊.js"
         },
         {
             "key": "电影港",
@@ -2135,7 +2145,7 @@
         {
             "name": "圥忈专用",
             "type": 1,
-            "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+            "url": "https://jx.playerjy.com/?url=",
             "ext": {
                 "flag": [
                     "seven"
@@ -2148,32 +2158,32 @@
         {
             "name": "嗅探",
             "type": 0,
-            "url": "https://jx.haokantv.cyou/player/?url="
+            "url": ""
         },
         {
             "name": "嗅探一",
             "type": 0,
-            "url": "http://bfqjc.xwyxpw.cn/?url="
+            "url": ""
         },
         {
-            "name": "嗅探二",
+            "name": "JSON播放",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "嗅探三",
+            "name": "夜幕解析",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url="
+            "url": "https://www.yemu.xyz/?url="
         },
         {
-            "name": "嗅探四",
+            "name": "冰豆解析",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
+            "url": "https://bd.jx.cn/?url="
         },
         {
-            "name": "嗅探五",
+            "name": "虾米解析",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url="
+            "url": "https://jx.xmflv.com/?url= "
         }
     ],
     "rules": [
