@@ -315,6 +315,24 @@
       },
       "timeout": 25
     },
+    {"key":"鸭奈飞",
+    "name":"Ⓝ奈飞┃影视",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://yanetflix.me/api.php/app/"
+    },
+    {"key":"酷影视",
+    "name":"Ⓚ酷影┃影视",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.tvkuys.xyz/api.php/app/"
+    },
     {
       "key": "新6V",
       "name": "磁力🧲慎用4K",
