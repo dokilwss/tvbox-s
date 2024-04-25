@@ -1,5 +1,6 @@
 {
-    "spider": "./jar/dongchen.jar",
+    "spider": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;92ac6f5136c5ce9885fe60122c545434",
+    "warningText": "欧歌提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "wallpaper": "https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
     "lives": [
         {
@@ -472,6 +473,117 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
+            "key": "南瓜影视",
+            "name": "💡南瓜┃影视",
+            "type": 3,
+            "api": "csp_AppYSDQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天天影视",
+            "name": "💡天天┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://op.ysdqjs.cn"
+        },
+        {
+            "key": "热播影视",
+            "name": "💡热播┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "追剧影视",
+            "name": "💡追剧┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://app.kzjtv.com"
+        },
+        {
+            "key": "快看影视",
+            "name": "💡快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "💡兄弟┃影视",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷看影视",
+            "name": "💡酷看┃影视",
+            "type": 3,
+            "api": "csp_Wexkukantv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "💡明日┃影视",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "腐剧视频",
+            "name": "💡腐剧┃影视",
+            "type": 3,
+            "api": "csp_WexFujutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "韩剧视频",
+            "name": "💡韩剧┃影视",
+            "type": 3,
+            "api": "csp_Wexhanjutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷云七七",
+            "name": "💡七七┃影视",
+            "type": 3,
+            "api": "csp_WexKuyun77",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文才影视",
+            "name": "💡文才┃影视",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "农民影视",
+            "name": "💡农民┃影视",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白嫖影视",
+            "name": "💡白嫖┃影视",
+            "type": 3,
+            "api": "csp_Wexbaipiao",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "茶杯狐",
