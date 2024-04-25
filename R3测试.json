@@ -779,7 +779,7 @@
             "key": "磁力熊",
             "name": "🧲磁力熊┃磁力",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy6.min.js",
             "ext": "./js/磁力熊.js"
         },
         {
