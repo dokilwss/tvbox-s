@@ -327,6 +327,16 @@
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
+      "key": "奈飞影视",
+      "name": "奈飞影视",
+      "type": 3,
+      "api": "./js/讴歌.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nf.json"
+      },
+    {
       "key": "厂长蓝光",
       "name": "厂长🏭蓝光",
       "type": 3,
