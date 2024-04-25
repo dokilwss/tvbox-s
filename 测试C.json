@@ -637,6 +637,117 @@
             }
         },
         {
+            "key": "南瓜影视",
+            "name": "💡南瓜┃影视",
+            "type": 3,
+            "api": "csp_AppYSDQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天天影视",
+            "name": "💡天天┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://op.ysdqjs.cn"
+        },
+        {
+            "key": "热播影视",
+            "name": "💡热播┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "追剧影视",
+            "name": "💡追剧┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://app.kzjtv.com"
+        },
+        {
+            "key": "快看影视",
+            "name": "💡快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "💡兄弟┃影视",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷看影视",
+            "name": "💡酷看┃影视",
+            "type": 3,
+            "api": "csp_Wexkukantv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "💡明日┃影视",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "腐剧视频",
+            "name": "💡腐剧┃影视",
+            "type": 3,
+            "api": "csp_WexFujutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "韩剧视频",
+            "name": "💡韩剧┃影视",
+            "type": 3,
+            "api": "csp_Wexhanjutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷云七七",
+            "name": "💡七七┃影视",
+            "type": 3,
+            "api": "csp_WexKuyun77",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文才影视",
+            "name": "💡文才┃影视",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "农民影视",
+            "name": "💡农民┃影视",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白嫖影视",
+            "name": "💡白嫖┃影视",
+            "type": 3,
+            "api": "csp_Wexbaipiao",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "荐片",
             "name": "🧲荐片┃磁力",
             "type": 3,
