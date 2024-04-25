@@ -779,7 +779,7 @@
             "key": "磁力熊",
             "name": "🧲磁力熊┃磁力",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/磁力熊.js"
         },
         {
@@ -860,6 +860,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/XYQHiker/4KHDR.json"
+        },
+        {
+            "key": "4KHDR磁力",
+            "name": "🧲蓝光原画┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XYQHiker/中国蓝光.json"
         },
         {
             "key": "NCat",
