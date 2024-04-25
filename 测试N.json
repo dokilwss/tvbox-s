@@ -641,6 +641,7 @@
             "name": "💡南瓜┃影视",
             "type": 3,
             "api": "csp_AppYSDQ",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -650,6 +651,7 @@
             "name": "💡天天┃影视",
             "type": 3,
             "api": "csp_TTian",
+            "jar": "./jar/dongchenok.jar",
             "ext": "http://op.ysdqjs.cn"
         },
         {
@@ -657,6 +659,7 @@
             "name": "💡热播┃影视",
             "type": 3,
             "api": "csp_TTian",
+            "jar": "./jar/dongchenok.jar",
             "ext": "http://v.rbotv.cn"
         },
         {
@@ -664,6 +667,7 @@
             "name": "💡追剧┃影视",
             "type": 3,
             "api": "csp_TTian",
+            "jar": "./jar/dongchenok.jar",
             "ext": "http://app.kzjtv.com"
         },
         {
@@ -671,6 +675,7 @@
             "name": "💡快看┃影视",
             "type": 3,
             "api": "csp_Kuaikan",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -680,6 +685,7 @@
             "name": "💡兄弟┃影视",
             "type": 3,
             "api": "csp_Wexxiongdiys",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -688,6 +694,7 @@
             "name": "💡酷看┃影视",
             "type": 3,
             "api": "csp_Wexkukantv",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -696,6 +703,7 @@
             "name": "💡明日┃影视",
             "type": 3,
             "api": "csp_WexMingriys",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -704,6 +712,7 @@
             "name": "💡腐剧┃影视",
             "type": 3,
             "api": "csp_WexFujutv",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -712,6 +721,7 @@
             "name": "💡韩剧┃影视",
             "type": 3,
             "api": "csp_Wexhanjutv",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -720,6 +730,7 @@
             "name": "💡七七┃影视",
             "type": 3,
             "api": "csp_WexKuyun77",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -728,6 +739,7 @@
             "name": "💡文才┃影视",
             "type": 3,
             "api": "csp_Wexwencai",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -736,14 +748,7 @@
             "name": "💡农民┃影视",
             "type": 3,
             "api": "csp_WexNmys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "白嫖影视",
-            "name": "💡白嫖┃影视",
-            "type": 3,
-            "api": "csp_Wexbaipiao",
+            "jar": "./jar/dongchenok.jar",
             "searchable": 1,
             "changeable": 1
         },
