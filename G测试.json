@@ -766,7 +766,6 @@
             "name": "🧲SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
-            "jar": "./jar/pg0328.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -788,7 +787,6 @@
             "name": "🧲迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
-            "jar": "./jar/pg0328.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -798,7 +796,6 @@
             "name": "🧲Mp4电影┃磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
-            "jar": "./jar/pg0328.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -808,7 +805,6 @@
             "name": "🧲酷吧┃磁力",
             "type": 3,
             "api": "csp_KubaCL",
-            "jar": "./jar/pg0328.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -818,7 +814,6 @@
             "name": "🧲美剧┃磁力",
             "type": 3,
             "api": "csp_MeijuTT",
-            "jar": "./jar/pg0328.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
