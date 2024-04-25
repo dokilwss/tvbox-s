@@ -640,13 +640,13 @@
             "key": "荐片",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "csp_JianPian",
+            "api": "./js/drpy.min.js",
             "jar": "./jar/pg0328.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+            "ext": "./js/jianpian.js"
         },
         {
             "key": "新6V",
