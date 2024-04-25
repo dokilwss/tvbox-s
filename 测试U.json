@@ -637,24 +637,13 @@
             }
         },
         {
-            "key": "天天影视",
-            "name": "💡天天┃影视",
-            "type": 3,
-            "api": "csp_TTian",
-            "jar": "./jar/PandaQ240408.jar",
-            "ext": "http://op.ysdqjs.cn"
-        },
-        {
             "key": "荐片",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "csp_JianPian",
-            "jar": "./jar/pg0328.jar",
-            "playerType": 1,
+            "api": "./js/drpy.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+            "changeable": 1,
+            "ext": "./js/jianpian.js"
         },
         {
             "key": "新6V",
@@ -681,11 +670,13 @@
             "key": "美剧迷",
             "name": "🧲美剧迷┃磁力",
             "type": 3,
-            "api": "csp_MeijuMi",
-            "jar": "./jar/pg0328.jar",
-            "searchable": 1,
+            "api": "csp_Meijumi",
+            "jar": "./jar/pg0318.jar",
             "quickSearch": 1,
-            "filterable": 1
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
         },
         {
             "key": "迅雷吧",
