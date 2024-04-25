@@ -638,9 +638,9 @@
         },
         {
             "key": "荐片",
-            "name": "💘荐片┃磁力",
+            "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "csp_JianPian",
+            "api": "./js/drpy.min.js",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
