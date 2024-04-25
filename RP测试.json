@@ -1,6 +1,5 @@
 {
     "spider": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;92ac6f5136c5ce9885fe60122c545434",
-    "spider":"./jar/dongchen.jar",
     "wallpaper": "https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
     "lives": [
         {
@@ -761,6 +760,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_XYQHikerAL_4KHDR",
+            "name": "🧲4KHDR┃磁力",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/4KHDR.json"
+        },
+        {
+            "key": "Bt0",
+            "name": "🧲不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "null$$$null$$$1"
         },
         {
             "key": "美剧迷",
@@ -2045,7 +2066,7 @@
             "url": "Web"
         },
         {
-            "name": "东辰影视",
+            "name": "圥忈专用",
             "type": 1,
             "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
             "ext": {
