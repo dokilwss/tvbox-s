@@ -474,8 +474,20 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
+            "key": "荐片",
+            "name": "🧲荐片┃磁力",
+            "type": 3,
+            "api": "csp_JianPian",
+            "jar": "./jar/pg0328.jar",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+        },
+        {
             "key": "新6V",
-            "name": "磁力🧲慎用4K",
+            "name": "🧲新Ⅵ┃磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "jar": "./jar/pg0328.jar",
@@ -486,7 +498,7 @@
         },
         {
             "key": "SeedHub",
-            "name": "💘SeedHub┃磁力",
+            "name": "🧲SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
             "jar": "./jar/pg0328.jar",
@@ -496,7 +508,7 @@
         },
         {
             "key": "美剧迷",
-            "name": "💘美剧迷┃磁力",
+            "name": "🧲美剧迷┃磁力",
             "type": 3,
             "api": "csp_MeijuMi",
             "jar": "./jar/pg0328.jar",
@@ -506,7 +518,7 @@
         },
         {
             "key": "迅雷吧",
-            "name": "💘迅雷吧┃磁力",
+            "name": "🧲迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
             "jar": "./jar/pg0328.jar",
@@ -516,7 +528,7 @@
         },
         {
             "key": "Mp4电影",
-            "name": "💘Mp4电影┃磁力",
+            "name": "🧲Mp4电影┃磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
             "jar": "./jar/pg0328.jar",
@@ -526,7 +538,7 @@
         },
         {
             "key": "酷吧电影",
-            "name": "💘酷吧┃磁力",
+            "name": "🧲酷吧┃磁力",
             "type": 3,
             "api": "csp_KubaCL",
             "jar": "./jar/pg0328.jar",
@@ -536,10 +548,20 @@
         },
         {
             "key": "美剧天堂",
-            "name": "💘美剧┃磁力",
+            "name": "🧲美剧┃磁力",
             "type": 3,
             "api": "csp_MeijuTT",
             "jar": "./jar/pg0328.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "NCat",
+            "name": "网猫🐱蓝光",
+            "type": 3,
+            "api": "csp_NCat",
+            "jar": "./jar/custom_spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1470,17 +1492,7 @@
             "jar": "./jar/pg0316.jar",
             "timeout": 60,
             "ext": "./json/PG推送.json"
-        },
-        {
-            "key": "NCat",
-            "name": "网飞猫🐱影视",
-            "type": 3,
-            "api": "csp_NCat",
-            "jar": "./jar/custom_spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        }, 
         {
             "key": "Wexyingso",
             "name": "影搜⛵网盘",
