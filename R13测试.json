@@ -214,6 +214,28 @@
             }
         },
         {
+            "key": "py_cctv",
+            "name": "📡┃CCTV综合┃",
+            "type": 3,
+            "api": "py_cctv",
+            "jar": "./jar/py1.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/py_cctv.py"
+        },
+        {
+            "key": "m1905",
+            "name": "📡┃CCTV电影┃",
+            "type": 3,
+            "api": "py_cctv",
+            "jar": "./jar/py1.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/m1905.py"
+        },
+        {
             "key": "配置中心",
             "name": "转存原画夸克🏬配置",
             "type": 3,
@@ -226,28 +248,6 @@
                 "ratio": 1
             },
             "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
-        },
-        {
-            "key": "py_cctv",
-            "name": "♍┃CCTV综合┃",
-            "type": 3,
-            "api": "py_cctv",
-            "jar": "./jar/py1.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/py_cctv.py"
-        },
-        {
-            "key": "m1905",
-            "name": "♍┃CCTV电影┃",
-            "type": 3,
-            "api": "py_cctv",
-            "jar": "./jar/py1.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/m1905.py"
         },
         {
             "key": "玩偶弹幕版",
@@ -801,8 +801,8 @@
             "key": "磁力熊",
             "name": "🧲磁力熊┃磁力",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/磁力熊.js"
+            "api": "./jar/drpy2.min.js",
+            "ext": "./json/磁力熊.js"
         },
         {
             "key": "电影港",
