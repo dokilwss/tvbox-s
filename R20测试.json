@@ -496,14 +496,13 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "皮皮虾影视",
-            "name": "⚡皮虾┃影视",
+            "key": "萌米",
+            "name": "⚡萌米┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.aikun.tv/api.php/app/"
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
             "key": "天天影视",
