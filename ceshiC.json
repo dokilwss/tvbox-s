@@ -887,8 +887,34 @@
             "ext": "./json/XYQHiker/中国蓝光.json"
         },
         {
+            "key": "南瓜弹幕",
+            "name": "💬弹幕┃南瓜",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
+            "key": "酷看弹幕",
+            "name": "💬弹幕┃酷看",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
             "key": "厂长弹幕",
-            "name": "💬厂长┃弹幕",
+            "name": "💬弹幕┃厂长",
             "type": 3,
             "api": "csp_Czzy",
             "searchable": 1,
@@ -901,7 +927,7 @@
         },
         {
             "key": "JOJO弹幕",
-            "name": "💬JOJO┃弹幕",
+            "name": "💬弹幕┃JOJO",
             "type": 3,
             "api": "csp_Jiohub",
             "searchable": 1,
@@ -914,9 +940,9 @@
         },
         {
             "key": "白嫖影视",
-            "name": "💬白嫖┃弹幕",
+            "name": "💬弹幕┃白嫖",
             "type": 3,
-            "api": "csp_BaiPiao",
+            "api": "csp_Cs1369",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -927,8 +953,34 @@
             "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
         },
         {
+            "key": "三六零弹幕",
+            "name": "💬弹幕┃三六零",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "💬弹幕┃机器人",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
             "key": "苹果",
-            "name": "💬苹果┃弹幕",
+            "name": "💬弹幕┃小苹果",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
@@ -938,6 +990,14 @@
                 "danmu": true
             },
             "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
+            "key": "白嫖影视",
+            "name": "🧿白嫖┃蓝光",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "jar": "./jar/PandaQ240408.jar",
+            "playerType": "2"
         },
         {
             "key": "子子影视",
