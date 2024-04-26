@@ -517,6 +517,15 @@
             "ext": "http://app.kzjtv.com"
         },
         {
+            "key": "JOJO弹幕",
+            "name": "💡JOJO┃影视",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "快看影视",
             "name": "💡快看┃影视",
             "type": 3,
