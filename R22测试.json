@@ -1502,9 +1502,10 @@
             "key": "两个BT",
             "name": "🥮BT2┃秒播",
             "type": 3,
-            "playerType": 2,
-            "searchable": 1,
             "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "./json/bt.json"
         },
         {
