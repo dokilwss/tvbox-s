@@ -517,15 +517,6 @@
             "ext": "http://app.kzjtv.com"
         },
         {
-            "key": "JOJO弹幕",
-            "name": "💡JOJO┃影视",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "快看影视",
             "name": "💡快看┃影视",
             "type": 3,
@@ -897,7 +888,7 @@
         },
         {
             "key": "厂长弹幕",
-            "name": "🧿厂长┃蓝光",
+            "name": "💬厂长┃弹幕",
             "type": 3,
             "api": "csp_Czzy",
             "searchable": 1,
@@ -909,16 +900,35 @@
             "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
         },
         {
+            "key": "JOJO弹幕",
+            "name": "💬JOJO┃弹幕",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+        },
+        {
             "key": "白嫖影视",
-            "name": "🧿白嫖┃蓝光",
+            "name": "💬白嫖┃弹幕",
             "type": 3,
             "api": "csp_BaiPiao",
-            "jar": "./jar/PandaQ240408.jar",
-            "playerType": "2"
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
         },
         {
             "key": "苹果",
-            "name": "🧿苹果┃蓝光",
+            "name": "💬苹果┃弹幕",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
